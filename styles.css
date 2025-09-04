@@ -1,0 +1,35 @@
+body{text-align: center;
+
+}
+input[type=text], select {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid hsla(320, 8%, 7%, 0.288);
+  border-radius: 8px;
+  box-sizing: border-box;
+  resize: vertical;
+  background-color: #dbdada;
+}
+input[type=submit] {
+  width: 30%;
+  background-color: #55a358;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border:none;
+  border-radius: 6px;
+  cursor: pointer;
+  resize: vertical;
+}
+
+input[type=submit]:hover {
+  background-color: #4db144;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #ddcece;
+  padding: 20px; 
+}
