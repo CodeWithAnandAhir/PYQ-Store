@@ -24,11 +24,11 @@ Absolutely free – knowledge should never have a price tag
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript (add Bootstrap/React if used)
+Frontend: HTML, CSS, JavaScript (add Bootstrap)
 
-Backend: (Add here if you used Node.js, Java,  etc.)
+Backend: (Add here  Node.js, Java)
 
-Database: (Add here if applicable, e.g., MySQL, MongoDB)
+Database: ( MongoDB)
 
 ❤️ Acknowledgements
 
